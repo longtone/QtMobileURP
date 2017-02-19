@@ -7,4 +7,5 @@
 .DS_Store # only needed under mac os
 .idea
 Api.java
+Api.*
 *.apk #optional
